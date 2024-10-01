@@ -1,6 +1,7 @@
 # 👋 Hi, I’m @makhsumovM  
-- ## 👀 I’m interested in Programing
-- ## 🌱 I’m currently learning  front-end development.
+- ## 👀 I’m interested in Programming
+- ## 🌱 I’m currently learning front-end development.
+
 ## Technologies and tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -11,14 +12,16 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/-Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/-Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
-
-
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ## Мои пет проекты:
 
+- [Admin Panel](https://github.com/makhsumovM/adminPanel)
+- [Market Place](https://github.com/makhsumovM/marketPlace)
 
 ## Связаться со мной:
-- 📧 Email: [muhammadmakhsumov1@gmail.com](muhammadmakhsumov1@gmail.com)
+- 📧 Email: [muhammadmakhsumov1@gmail.com](mailto:muhammadmakhsumov1@gmail.com)
 
 <!---
 makhsumovM/makhsumovM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
